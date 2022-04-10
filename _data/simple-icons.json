@@ -3580,6 +3580,11 @@
             "source": "https://www.freebsdfoundation.org/about/project/"
         },
         {
+            "title": "FreeCAD",
+            "hex": "343A40",
+            "source": "https://freecadweb.org/"
+        },
+        {
             "title": "freeCodeCamp",
             "hex": "0A0A23",
             "source": "https://design-style-guide.freecodecamp.org/",
